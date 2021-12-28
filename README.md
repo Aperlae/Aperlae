@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aperlae
-- 👀 I’m interested in learning all I can about computer programming and making the web accessible for people with disabilities especially those who are blind or visually impaired.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m **Aperlae** *aka* **Moni**  ✨🤪✨ 
+- 👀 I work in Special Education 🧑‍🦯 and in my free time I'm learning front-end development with a focus on User Interface and User Experience principles. I wish to be able to create responsive and accessible websites and apps 🙏 
+- 🌱 I’m currently learning JavaScript and hoping to get a grasp on JQuery 🤘 I have also just started to learn Git 😵‍💫
+- 💞️ I’m not yet ready to collaborate on any projects but will be hopefully soon ⛑️ 💞 😅
+- 📫 How to reach me ... 🔗 *still to come*
 
 <!---
 Aperlae/Aperlae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
